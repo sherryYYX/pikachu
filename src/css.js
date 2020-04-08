@@ -2,7 +2,7 @@ const string = `.skin *{box-sizing: border-box; margin:0;padding: 0;}
 .shin *::after,.skin *::before{box-sizing: border-box;} 
 .skin{
     position:relative; 
-     min-height: 100vh;
+     min-height: 56vh;
     background: #ffe600;
 }
 .nose{
@@ -13,7 +13,7 @@ const string = `.skin *{box-sizing: border-box; margin:0;padding: 0;}
     width:0px;
     height:0px;
     left:50%;
-    top:140px;
+    top:110px;
     margin-left:-10px;
 }
 .semicircle{
@@ -31,7 +31,7 @@ const string = `.skin *{box-sizing: border-box; margin:0;padding: 0;}
     height: 64px;
     position: absolute;
     left:50%;
-    top:100px;
+    top:70px;
     margin-left: -32px;
     background: #353433;
     border-radius: 50%;
@@ -58,7 +58,7 @@ const string = `.skin *{box-sizing: border-box; margin:0;padding: 0;}
     height:200px;
     position: relative;;
     left:50%;
-    top:170px;
+    top:130px;
     margin-left:-100px;
 }
 .mouth .up .lip{
@@ -122,7 +122,7 @@ const string = `.skin *{box-sizing: border-box; margin:0;padding: 0;}
     position:absolute;
     left:50%;
     margin-left:-44px;
-    top:200px;
+    top:160px;
     z-index:3;
     border-radius: 50%;
 }

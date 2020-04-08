@@ -23,7 +23,7 @@
     top:0;
     left:0;
     width: 100%;
-    height:50vh;
+    height:44vh;
     overflow-y: auto;
 }
 #demo2::-webkit-scrollbar {
@@ -34,5 +34,5 @@
     left:0;
     bottom: 0px;
     width: 100%;
-    height: 50vh;
+    height: 56vh;
 }
